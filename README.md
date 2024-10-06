@@ -6,6 +6,7 @@ I learnt:
 3. Familiarized myself with the syntax of simple html commands
 4. Simple commands of git and how to create a new repository.
 5. linux shell familiarity.
+6. How to use github pages.
 
 What I need to work on/learn:
 1. When to commit.
