@@ -2,6 +2,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: coral;
+    margin: 0;
 }
 
 .title {
@@ -12,6 +13,31 @@ body {
 
 .sub.title {
     font-weight: 500;
+    padding: 10px;
+    color: rgb(235, 235, 119);
+    margin-bottom: 0;
 }
 
+h1 {
+    margin: 0;
+}
 
+.text,
+.description{
+    background-color: rgb(255, 211, 129);
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.text {
+    padding: 8px 8px 8px 30px;
+}
+
+.description {
+    padding: 8px;
+}
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: -20px;
+}
